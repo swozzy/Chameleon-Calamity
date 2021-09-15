@@ -1,5 +1,4 @@
-![Chameleon Calamity](https://user-images.githubusercontent.com/50145793/130534665-807a7875-f5aa-4faa-a181-11cbd3ebf720.png)
-
+![Untitled](https://user-images.githubusercontent.com/50145793/133508572-175cfb69-1631-4480-bd73-e78b9a1c2c7b.png)
 A game made by SLAM studios for Professor Lee's COM217's 'Entertainment Software and Design' course
 
 <embed video somewhere>
