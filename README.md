@@ -16,6 +16,10 @@ Almost as if he knew something was wrong, Prismo leaped from his bed, went outsi
 
 # How to Play 🎨
 
+## Download 💾
+
+To play our game, just [download _Chameleon Calamity.exe_ from this repository](https://github.com/swozzy/Chameleon-Calamity/blob/main/Chameleon%20Calamity.exe) and double-click the icon to play! It's as easy as that!
+
 ## Objective 🚩
 
 Put an end to the monotonous madness the Graytones caused -- run to the end of the level dodging obstacles and eating bugs along the way, find the Gray Area, and defeat Spectrum! The world is in your once-colorful hands!
@@ -32,7 +36,7 @@ The scientists in Chameleon City risked their lives for these pictures, so hopef
 
 ![Untitled (3)](https://user-images.githubusercontent.com/50145793/133907679-0c8d1089-82bc-4d4a-928f-5c7e278e28f3.png)
 
-## Gameplay
+## Gameplay 🎮
 
 If you touch any Graytones with his tongue they'll become friendly and won't attack Prismo. Watch out, though, touching a unfriendly Graytone will cause Prismo to lose a life! 
 
@@ -42,22 +46,23 @@ Got a friend that wants to play too? No problem! Have your friend help Prismo re
 
 ### If you're just looking for some gameplay, click here: https://lcerino.wixsite.com/slamstudios2018/gameplay-video 📺
 
-## Final Boss
+## Final Boss ☠
 
 _Spoiler alert!_ Once you've ran past the first couple of levels you should find the home of Spectrum -- an extremely dangerous Graytone that seems to be the brains of this whole operation. He attacks with a gun that spits out large black gobs of goo that seem to be made up of the same stuff Graytones are made of. See if you can use your tongue to deflect some of these attacks and take down Spectrum for good!
 
 <img width="1190" alt="boss" src="https://user-images.githubusercontent.com/50145793/133907821-7acd6a3c-e6da-4e74-8abb-3fb9c9b22f4d.png">
 
-# Presentation Video
+# Presentation Video 🎥
 Couldn't make it for the official class-wide opening of _Chameleon Calamity_? Well, you're in luck!
 Click the link below to travel back and time and watch the SLAM team proudly show off their hard work!
 
 https://www.youtube.com/watch?v=Pb_y69Qy0Iw
 
-# Features
-- Hand-drawn **everything** (except for the dragonflies)
+# Features 💡
+- **Everything** (except for the dragonflies) is hand-drawn
+- Immersive introductory cinematic
 - Intuitive controls with two-player capabilities
-- CO-OP friendly (but not required!)
+- Cute chameleons
 
 # Official Website 🌏📧
 https://lcerino.wixsite.com/slamstudios2018/story
