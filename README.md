@@ -12,7 +12,7 @@ Then, out of othe blue, troubled started. With Chameleon City sound asleep, the 
 Almost as if he knew something was wrong, Prismo leaped from his bed, went outside, and looked around. When he caught the aliens red-handed and noticed what they were trying to do, he turned as white as a sheet! Though, to be frank, it was more of a gray hue, but that's beside the point. Will you help Prismo defeat the Graytones and give color back to Chameleon City? Or will you wave the white flag? After all, if the Graytones' plans succeed, a white flag is just about one of the only colors of flag you'll be waving if you don't.
 
 ### Or, just watch how the story plays out here: https://video.wixstatic.com/video/6a26c5_58eb3a2854f94ee5b1d68737c62146c0/1080p/mp4/file.mp4 📺
-Hand-drawn animation courtesty of Alexis Lynch 
+(Digitally hand-drawn animation courtesty of Alexis Lynch)
 
 # How to Play 🎨
 
@@ -58,6 +58,9 @@ https://www.youtube.com/watch?v=Pb_y69Qy0Iw
 - Hand-drawn **everything** (except for the dragonflies)
 - Intuitive controls with two-player capabilities
 - CO-OP friendly (but not required!)
+
+# Official Website 🌏📧
+https://lcerino.wixsite.com/slamstudios2018/story
 
 ## Thank-you, Connecticut College, for not only playing our game but for also voting it as _Game of the Year!_
 
